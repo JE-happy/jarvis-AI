@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("ai2.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#start {
+    cursor: pointer;
+    float: right;
+    width: 14vw;
+    margin: 20px 30px 0 0;
+}
+h2  {
+    color: red;
+}
+#ironman {
+    margin-top: 15vw;
+    margin-left: 40vw;
+    width: 25vw;
+    height: 30vw;
+}
+#black {
+    display: flex;
+    align-items: center;
+    width: 260px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-left: 40vw;
+    margin-top: 5px;
+    /* font-size: 3vw; */
+    text-align: center;
+    text-transform: capitalize;
+}
+.left {
+    margin-top: -80px;
+}
+.status {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#bt {
+    width: 75px;
+    height: 80px;
+}
+#wifi {
+    width: 40px;
+    height: 40px;
+    margin-left: 14px;
+}
+#watch {
+    width: 75px;
+    height: 110px;
+}
+p {
+    color: white;
+}
+#internet {
+    margin-left:20px;
+}
